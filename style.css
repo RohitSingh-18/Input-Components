@@ -1,0 +1,811 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.section- {
+    padding-top: 42px;
+}
+
+h2{
+    margin-top: 30px;
+    margin-left: 81px;
+    color: var(--gray-3,#4f4f4f);
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+/* button-1 */
+
+.section-1 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 65px;
+}
+
+.label-1 p{
+    margin-top: 16px;
+}
+
+.label-1 .int-1{
+    width: 54px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-1 .lbl-1{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+.label-1 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* button-2 */
+
+body .section-2{
+    margin-top: 42px;
+}
+
+.label-2{
+    margin-left: 70px;
+}
+
+.label-2 p{
+    margin-top: 16px;
+}
+
+.label-2 .int-2{
+    width: 54px;
+    height: 12px;
+    color: var(--gray-1, #828282);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-2 .lbl-2{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+.label-2 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #333);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* button-3 */
+
+.label-3{
+    margin-left: 70px;
+}
+
+.label-3 p{
+    margin-top: 16px;
+}
+
+.label-3 .int-3{
+    width: 54px;
+    height: 12px;
+    color: var(--gray-1, #828282);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-3 .lbl-3{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #2962FF);
+    font-weight: 400;
+}
+
+.label-3 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #2962FF);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 2nd part */
+
+/* button-4 */
+
+.section-2 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 65px;
+}
+
+.label-4 p{
+    margin-top: 16px;
+}
+
+.label-4 .int-4{
+    width: 90px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-4 .lbl-4{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #D32F2F);
+    font-weight: 400;
+}
+
+.label-4 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #D32F2F);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* button-5 */
+
+.label-5{
+    margin-left: 70px;
+}
+
+.label-5 p{
+    margin-top: 16px;
+}
+
+.label-5 .int-5{
+    width: 54px;
+    height: 12px;
+    color: var(--gray-1, #828282);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-5 .lbl-5{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: #000000;
+    font-weight: 400;
+}
+
+.label-5 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #333);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* button-6 */
+
+.label-6{
+    margin-left: 70px;
+}
+
+.label-6 p{
+    margin-top: 16px;
+}
+
+.label-6 .int-6{
+    width: 54px;
+    height: 12px;
+    color: var(--gray-1, #828282);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-6 .lbl-6{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #D32F2F);
+    font-weight: 400;
+}
+
+.label-6 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #D32F2F);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 3rd part */
+
+/* button-7 */
+
+.label-7{
+    margin-left: 81px;
+}
+
+.label-7 p{
+    margin-top: 42px;
+}
+
+.label-7 .lbl-7{
+    margin-top: 16px;
+    font-family: Noto Sans JP;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+.label-7 .int-7{
+    width: 108px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-7 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-5, #E0E0E0);
+    background: var(--gray-6, #F2F2F2);
+    
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 4th Part  */
+
+.section-4 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 42px;
+}
+
+/* Button 8  */
+
+.label-8 p{
+    margin-top: 16px;
+}
+
+.label-8 .int-8{
+    width: 264px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-8 .down{
+    color: #828282;
+    line-height: normal;
+    font-family: Noto Sans JP;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-9 .down{
+    color: #D32F2F;
+    line-height: normal;
+    font-family: Noto Sans JP;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-8 .lbl-8{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: #333;
+    font-weight: 400;
+}
+
+.label-8 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #333);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* Button 9 */
+
+.label-9{
+    margin-left: 70px;
+}
+
+.label-9 p{
+    margin-top: 16px;
+}
+
+.label-9 .int-9{
+    width: 264px;
+    height: 12px;
+    color:  #333;
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-9 .lbl-9{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: #D32F2F;
+    font-weight: 400;
+}
+
+.label-9 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #D32F2F);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 5th Part  */
+
+.section-5 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 42px;
+}
+
+/* Button 10  */
+
+.label-10 p{
+    margin-top: 16px;
+}
+
+.label-10 .int-10{
+    width: 114px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-10 .lbl-10{
+
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: #333;
+    font-weight: 400;
+}
+
+.label-10 input{
+    margin-top: 4px;
+    width: 170px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #333);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 45px; 
+}
+
+.label-10 span{
+    position: absolute;
+    padding-left: 12.3px;
+    padding-top: 19.01px;
+    color: var(--gray-3, #828282);
+}
+
+
+
+/* Button 11 */
+
+.label-11{
+    margin-left: 118px;
+}
+
+.label-11 p{
+    margin-top: 16px;
+}
+
+.label-11 .int-11{
+    width: 102px;
+    height: 12px;
+    color:  #333;
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-11 .lbl-11{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: #D32F2F;
+    font-weight: 400;
+}   
+
+.label-11 input{
+    margin-top: 4px;
+    width: 195px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #D32F2F);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 15px; 
+}
+
+.label-11 span{
+    position: absolute;
+    padding-left: 177px;
+    padding-top: 19.01px;
+    color: var(--gray-3, #828282);
+}
+
+/* 6th Part */
+
+.label-12{
+    margin-left: 81px;
+}
+
+.label-12 p{
+    margin-top: 42px;
+}
+
+.label-12 .lbl-12{
+    margin-top: 16px;
+    font-family: Noto Sans JP;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-12 .int-12{
+    width: 132px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-12 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+    background: #FFF;
+    
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 7th Part  */
+
+.section-7 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 42px;
+}
+
+/* Button 13  */
+
+.label-13 p{
+    margin-top: 16px;
+}
+
+.label-13 .int-13{
+    width: 114px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-13 .lbl-13{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+.label-13 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 40px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* Button 14 */
+
+.label-14{
+    margin-left: 120px;
+}
+
+.label-14 p{
+    margin-top: 16px;
+}
+
+.label-14 .int-14{
+    width: 114px;
+    height: 12px;
+    color:  #333;
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    
+}
+
+.label-14 .lbl-14{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+.label-14 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 8th Part */
+
+.section-8 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 42px;
+}
+
+/* Button 15  */
+
+.label-15 p{
+    margin-top: 16px;
+}
+
+.label-15 .int-15{
+    width: 114px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-15 .lbl-15{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+.label-15 input{
+    margin-top: 4px;
+    width: 1031px;
+    height: 56px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px; 
+}
+
+/* 9th Part */
+
+.section-9 {
+    display: flex;
+    margin-left: 81px;
+    margin-top: 42px;
+}
+
+/* Button 16  */
+
+.label-16 p{
+    margin-top: 16px;
+}
+
+.label-16 .int-16{
+    width: 162px;
+    height: 12px;
+    color: var(--gray-1, #333);
+    font-family: Ubuntu Mono;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+}
+
+.label-16 .lbl-16{
+    font-size: 12px;
+    font-family: Noto Sans JP;
+    font-style: normal;
+    line-height: normal;
+    color: var(--gray-1, #333);
+    font-weight: 400;
+}
+
+
+.label-16 input{
+    margin-top: 4px;
+    width: 200px;
+    height: 150px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    border: 1px solid var(--gray-3, #828282);
+
+    font-family: Noto Sans JP;
+    font-size: 14px;
+    font-weight: 500;
+    padding-left: 12px;
+}
+
+.label-16 ::placeholder{
+    position: absolute;
+    padding-top: 10px;   
+    cursor: inherit;
+}
+
+footer{
+    margin-top: 42px;
+    margin-left: 82px;
+    color: #9E9E9E;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+
+footer svg{
+    margin-left: 10px;
+    color: #000000;
+}
